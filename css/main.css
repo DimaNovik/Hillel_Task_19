@@ -1,0 +1,83 @@
+body {
+	margin-left: 0;
+	margin-top: 0;
+	background-color: #a3a3c2;
+}
+
+.wrapper {
+	text-align: center;
+	width: 100%;
+}
+
+.header-form {
+	width: 40%;
+	margin-left: 30%;
+}
+
+h2 {
+	text-transform: uppercase;	
+	border-left: 2px solid #993399; 
+	font-size: 18px;
+}
+
+input {
+	padding: 10px 25px 10px 25px;
+	margin: 10px 0;
+	width: 300px;
+	text-align: left;
+}
+
+textarea {
+	margin:10px 0;
+	padding: 10px 25px 10px 25px;	
+	width: 300px;
+	text-align: left;
+}
+
+#button1 {
+	background: transparent;
+	border: none;
+	cursor: pointer;
+	font-size: 16px;
+	margin-top: 20px;
+	margin-left: -350px;
+	position: absolute;
+	visibility:hidden;
+}
+
+#button2 {
+	background: transparent;
+	border: none;
+	cursor: pointer;
+	font-size: 16px;
+	margin-top: 20px;
+	margin-left: -350px;
+	position: absolute;
+	visibility: hidden;
+}
+
+
+#button3 {
+	background: transparent;
+	border: none;
+	cursor: pointer;
+	font-size: 16px;
+	margin-top: 20px;
+	margin-left: -350px;
+	position: absolute;
+	visibility: hidden;
+}
+
+
+#button4 {
+	background: transparent;
+	border: none;
+	cursor: pointer;
+	font-size: 16px;
+	margin-top: 20px;
+	margin-left: -350px;
+	position: absolute;
+	visibility: hidden;
+}
+
+
