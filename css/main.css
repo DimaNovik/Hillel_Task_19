@@ -34,7 +34,7 @@ textarea {
 	text-align: left;
 }
 
-#button1 {
+button {
 	background: transparent;
 	border: none;
 	cursor: pointer;
@@ -43,41 +43,6 @@ textarea {
 	margin-left: -350px;
 	position: absolute;
 	visibility:hidden;
-}
-
-#button2 {
-	background: transparent;
-	border: none;
-	cursor: pointer;
-	font-size: 16px;
-	margin-top: 20px;
-	margin-left: -350px;
-	position: absolute;
-	visibility: hidden;
-}
-
-
-#button3 {
-	background: transparent;
-	border: none;
-	cursor: pointer;
-	font-size: 16px;
-	margin-top: 20px;
-	margin-left: -350px;
-	position: absolute;
-	visibility: hidden;
-}
-
-
-#button4 {
-	background: transparent;
-	border: none;
-	cursor: pointer;
-	font-size: 16px;
-	margin-top: 20px;
-	margin-left: -350px;
-	position: absolute;
-	visibility: hidden;
 }
 
 
